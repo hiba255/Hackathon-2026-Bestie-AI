@@ -1,4 +1,4 @@
-# Bestie Tunisia
+# Bestie 🌷
 
 Bestie Tunisia is a wellness-focused web application designed to support students, young graduates, and women in transition into the job market in their daily lives. It combines mood tracking, stress management, self-care routines, academic planning, and AI-powered support in a simple, warm, and private environment.
 
