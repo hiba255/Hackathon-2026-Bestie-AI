@@ -117,16 +117,6 @@ cp .env.example .env
 Copy-Item .env.example .env
 ```
 
-4. Review and adjust the variables if needed:
-
-```env
-LLM_PROVIDER=ollama
-LLM_BASE_URL=http://localhost:11434
-LLM_MODEL=gemma3:4b
-PORT=3001
-```
-
-> The `.env` file should not be shared publicly. It contains local runtime configuration.
 
 ## Running the Project
 
