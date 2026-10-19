@@ -204,5 +204,4 @@ This project is provided for demonstration and collaborative development purpose
 
 Project developed as part of the 2026 Bestie AI Hackathon.
 
-- Repository: https://github.com/hiba255/Hackathon-2026-Bestie-AI
-- Author / team: see the associated GitHub repository
+
